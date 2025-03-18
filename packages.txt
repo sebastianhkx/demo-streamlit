@@ -1,4 +1,0 @@
-pandas-dev
-numpy-dev
-matplotlib-dev
-plotly-dev
