@@ -1,7 +1,7 @@
 import streamlit as st
+# cd /c/Users/sebastian.hong/Documents/GitHub/
+# run with streamlit run main.py
 
-
-# app.py, run with 'streamlit run app.py'
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
